@@ -1,0 +1,26 @@
+body{
+	background-color: black !important;
+}
+
+.navbar{
+	height: 5px;
+	background-color:#0c61eb;
+
+}
+.navbar-brand{
+	color: white;
+}
+
+.navbar-brand:hover{
+	color: white !important;
+	border-radius: 10px !important;
+}
+
+.navbar .navbar-nav li a {
+	color: white ;
+}
+
+.navbar .navbar-nav li a:hover{
+	color: black ;
+	border-radius: 10px;
+}

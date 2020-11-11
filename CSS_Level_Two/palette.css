@@ -1,0 +1,35 @@
+h1{
+	text-align: center;
+   font-family: 'GrundschriftRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+
+.art{
+
+	margin: auto;
+}
+td{
+	height: 400px;
+	width: 200px;
+	border: 6px solid white;
+}
+
+#one{
+	background-color:#1A535C; 
+}
+#two{
+	background-color:#F3FFBD;
+}
+#three{
+	background-color:#70C1B3;
+}
+#four{
+	background-color:#B2DBBF;
+
+}
+#five{
+	background-color:#FF1654;
+}
+

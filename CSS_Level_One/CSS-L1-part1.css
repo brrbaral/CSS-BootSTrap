@@ -1,0 +1,14 @@
+h1{
+	color:red;
+}
+li{
+	color:rgb(180,97,100);
+}
+
+p{
+color:#4b27d9;
+}
+
+h4{
+color:rgba(255,97,0,0.7); /* a means opacity how transparent 0 means fully transparent and 1 means fully opaque*/
+}
